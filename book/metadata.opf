@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f6a83d8-eac2-4d73-99f1-80d388125406</dc:identifier>
+        <dc:title>A New English Reading Hand Book</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Ye</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-11T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;font face=".SF NS Text, sans-serif"&gt;&lt;span style="font-size: 14px;"&gt;A New English Reading Hand Book&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Zhibimo</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">E5MVFO2HGT7NJYAUKEF6WW5HEYWAN3EX</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;Ye&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-11-18T00:45:21+00:00" name="calibre:timestamp"/>
+        <meta content="English" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
